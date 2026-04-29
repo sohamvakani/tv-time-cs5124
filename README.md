@@ -1,5 +1,4 @@
-# TV Time — CS 5124 Project
-### Severance
+# Severance TV Time — CS 5124 Project
 
 ## Motivation
 
